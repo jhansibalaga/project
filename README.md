@@ -1,6 +1,9 @@
 Front-end :  HTML,CSS
+
 Framework : bootstrap
+
 Back-end : jsp/servlet/jdbc/mysql 
+
 Database : mysql 
 
 
