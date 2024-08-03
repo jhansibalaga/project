@@ -106,10 +106,11 @@ h5 {
 	padding: 20px 30px 10px 25px;
 }
 
-select {
-	width: 80%;
+form select {
+	width: 85%;
 	height: 40px;
-	margin: 3% 0% 0% 0%;
+	margin-left:1.5rem;
+        margin-top:-8px;  
 }
 </style>
 <%@include file="bootstrap.jsp"%>
