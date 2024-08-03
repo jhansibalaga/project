@@ -15,10 +15,10 @@ body{
     background-color: aliceblue;
 }
  body .container{
-    width: 30%;
+    width: 45%;
     height:30vh;
     background-color:#fff;
-    margin: 20% 36%;
+    margin: 25% 30%;
     filter: drop-shadow(5px 5px 5px #ebebeb);
     transition: transform 420ms;
 }
@@ -28,19 +28,19 @@ img{
     margin: 5% 0% 0% 42%;
 }
  .container h1{
-    padding: 1% 0 0 25%;
+    padding-left:12%;
 }
 p{
     max-width: 90%;
-    padding: 2% 0% 0% 15%;
+    padding: 2% 0% 0% 23%;
 }
 </style>
 </head>
 <body>
 <div class="container">
         <img src="https://png.pngtree.com/png-vector/20191113/ourmid/pngtree-green-check-mark-icon-flat-style-png-image_1986021.jpg" alt="">
-        <h1>Login Successfully!</h1>
-        <p>you have successfully signed into your account.you can close this window and continue your process </p>
+        <h1>Registration Completed Successfully!</h1>
+        <p>Please check your registered email for email verification</p>
     </div>
 </body>
 </html>
